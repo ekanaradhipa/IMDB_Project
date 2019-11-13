@@ -2,16 +2,20 @@
   text-align: center;
   margin:0;
   padding:0;
+  wdith:100%;
 
 }
 
 .card {
-  margin:0;
+  margin:auto;
   padding:10px;
+  position: relative;
 }
 
 #result {
-  display:flex;
+  margin:auto;
+  padding: 5%;
+  display:inline-flex;
   flex-direction: row;
   width: 100%;
 }
